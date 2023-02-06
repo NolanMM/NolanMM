@@ -23,7 +23,7 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=MySQL_Winform_Application_C_Sharp&theme=aura_dark)](https://github.com/NolanMM/MySQL_Winform_Application_C_Sharp)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=AES_Encryption_Hard_Code_Key&theme=gruvbox)](https://github.com/NolanMM/AES_Encryption_Hard_Code_Key)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=Multiple_Client_Server_Networking&theme=darcula)](https://github.com/NolanMM/Multiple_Client_Server_Networking)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=OTP_Code_SMTP_Server&theme=algolia)](https://github.com/NolanMM/OTP_Code_SMTP_Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=Multiple_Client_Server_Networking&theme=monokai)](https://github.com/NolanMM/Multiple_Client_Server_Networking)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=OTP_Code_SMTP_Server&theme=algolia)](https://github.com/NolanMM/OTP_Code_SMTP_Server)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=C-network-winform-simple&theme=prussian)](https://github.com/NolanMM/C-network-winform-simple)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=Multiple_Client_Server_Networking&theme=darcula)](https://github.com/NolanMM/Multiple_Client_Server_Networking)
 
