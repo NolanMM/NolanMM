@@ -7,7 +7,7 @@
 <div align=center>
   
   <a href="#" title="NolanM">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NolanMM&theme=midnight-purple&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NolanMM&theme=aura_dark&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true" />
   </a>
   
   <a href="#" title="NolanM">
