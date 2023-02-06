@@ -32,7 +32,8 @@
     <img src="https://img.icons8.com/nolan/96/instagram-new.png" />
   </a>
 </div>
-
+<br>
+<br>
 <div align=center>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=MySQL_Winform_Application_C_Sharp&theme=transparent)](https://github.com/NolanMM/MySQL_Winform_Application_C_Sharp)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=AES_Encryption_Hard_Code_Key&theme=transparent)](https://github.com/NolanMM/AES_Encryption_Hard_Code_Key)
