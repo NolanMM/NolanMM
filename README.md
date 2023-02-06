@@ -11,7 +11,7 @@
   </a>
   
   <a href="#" title="NolanM">
-    <img width="315" align="center" height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanMM&layout=compact&theme=midnight-purple&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanMM&layout=compact&theme=midnight-purple&hide_border=true" />
   </a>
   
 </div>
