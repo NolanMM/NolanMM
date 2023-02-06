@@ -20,7 +20,7 @@
 <br>
 <div align="center">
   <a href="https://www.facebook.com/NolanMinh" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
+    <img src="https://icons8.com/icon/y41EQlB7qTgT/facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UC32mzHk7CDwrD2xMDmOeNtA" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" />
