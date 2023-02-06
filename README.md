@@ -7,12 +7,15 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align=center>
+  
   <a href="#" title="NolanM">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NolanMM&theme=midnight-purple&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true" />
   </a>
+  
   <a href="#" title="NolanM">
     <img width="315" align="center" height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanMM&layout=compact&theme=midnight-purple&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true" />
   </a>
+  
 </div>
 <br>
 <br>
