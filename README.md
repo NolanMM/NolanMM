@@ -1,19 +1,16 @@
 - 👋 Hi, I’m @NolanMM
 - 👀 I’m interested in robotics, algorithm and aerospace
 - 🌱 I’m currently learning Bachelor of Computer Science (Honours)
-
+<br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-
+<br>
 <div align=center>
-  
   <a href="#" title="NolanM">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NolanMM&theme=aura_dark&hide_border=true" />
   </a>
-  
   <a href="#" title="NolanM">
     <img width="315" align="center" height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanMM&layout=compact&theme=aura_dark&hide_border=true" />
   </a>
-  
 </div>
 <br>
 <br>
