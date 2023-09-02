@@ -34,13 +34,15 @@
   <a href="https://www.facebook.com/NolanMinh" target="blank">
     <img src="https://img.icons8.com/neon/96/null/facebook.png" />
   </a>
-  <a href="https://www.youtube.com/channel/UC32mzHk7CDwrD2xMDmOeNtA" target="blank">
-    <img src="https://img.icons8.com/nolan/96/youtube-squared.png" />
-  </a>
   <a href="https://www.linkedin.com/in/nolan2810" target="blank">
     <img src="https://img.icons8.com/nolan/96/linkedin.png" />
+  </a>
+  <!-- 
+  <a href="https://www.youtube.com/channel/UC32mzHk7CDwrD2xMDmOeNtA" target="blank">
+    <img src="https://img.icons8.com/nolan/96/youtube-squared.png" />
   </a>
   <a href="https://www.instagram.com/n_olanm" target="blank">
     <img src="https://img.icons8.com/nolan/96/instagram-new.png" />
   </a>
+  -->
 </div>
