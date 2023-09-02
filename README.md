@@ -31,13 +31,13 @@
 <h2 align="center">🔥👽 Where to find me 👽🔥</h2>
 <br>
 <div align="center">
-  <a href="https://www.facebook.com/NolanMinh" target="blank">
-    <img src="https://img.icons8.com/neon/96/null/facebook.png" />
-  </a>
   <a href="https://www.linkedin.com/in/nolan2810" target="blank">
     <img src="https://img.icons8.com/nolan/96/linkedin.png" />
   </a>
   <!-- 
+    <a href="https://www.facebook.com/NolanMinh" target="blank">
+    <img src="https://img.icons8.com/neon/96/null/facebook.png" />
+  </a>
   <a href="https://www.youtube.com/channel/UC32mzHk7CDwrD2xMDmOeNtA" target="blank">
     <img src="https://img.icons8.com/nolan/96/youtube-squared.png" />
   </a>
