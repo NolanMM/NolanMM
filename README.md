@@ -23,7 +23,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=Multiple_Client_Server_Networking&theme=monokai)](https://github.com/NolanMM/Multiple_Client_Server_Networking)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=OTP_Code_SMTP_Server&theme=algolia)](https://github.com/NolanMM/OTP_Code_SMTP_Server)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=C-network-winform-simple&theme=prussian)](https://github.com/NolanMM/C-network-winform-simple)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=Multiple_Client_Server_Networking&theme=darcula)](https://github.com/NolanMM/Multiple_Client_Server_Networking)
   -->
-
+<!--
 </div>
 <br>
 <br>
@@ -33,6 +33,7 @@
   <a href="https://www.linkedin.com/in/nolan2810" target="blank">
     <img src="https://img.icons8.com/nolan/96/linkedin.png" />
   </a>
+  -->
   <!--
     <a href="https://www.facebook.com/NolanMinh" target="blank">
     <img src="https://img.icons8.com/neon/96/null/facebook.png" />
