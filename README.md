@@ -55,7 +55,7 @@ conditions.
 </p>
 
 **Backend & Systems**  
-C# · .NET / ASP.NET Core · REST · Kafka · WebSockets · LiveKit · WebRTC · Entity Framework Core
+C# · .NET / ASP.NET Core · REST · Kafka · WebSockets · LiveKit · Entity Framework Core · C++ · Crowh · Java
 
 **Data & AI**  
 Python · PyTorch · TensorFlow · Spark · Databricks · Azure Data Factory · PostgreSQL · Cassandra · SQL Server
