@@ -65,5 +65,3 @@ Docker · Azure · AWS · Linux · Git · CI/CD
 
 **Mobile & Application Development**  
 Flutter · Dart · HTML/CSS/JavaScript
-
----
