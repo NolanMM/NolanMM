@@ -1,6 +1,6 @@
 <!-- <h1 align="left">Minh (Nolan) Nguyen</h1> -->
 
-<p>
+<!-- <p>
   <strong>Software Engineer · Backend & Distributed Systems · UAV / Robotics · AI & Data</strong>
 </p>
 
@@ -12,11 +12,9 @@ with the physical world.
 
 <p>
   <!-- <a href="https://www.linkedin.com/in/nolan2810">LinkedIn</a>
-  &nbsp;·&nbsp; -->
+  &nbsp;·&nbsp; 
   <a href="https://www.rustechs.com/">Rustech</a>
-</p>
-
----
+</p> -->
 
 ## About
 
