@@ -37,20 +37,6 @@ conditions.
 
 ---
 
-## Recognition
-
-**2026 - Runner-up, Kawai Startup Competition · RUSTACK**
-
-RUSTACK presented an integrated UAV technology ecosystem focused on secure,
-reliable communication and autonomous-system operations.
-
-**National 3rd Prize - Vietnam Student Startup Contest**
-
-Awarded through the national student startup competition organized by
-Vietnam's Ministry of Education and Training.
-
----
-
 ## TechStacks
 
 <p>
