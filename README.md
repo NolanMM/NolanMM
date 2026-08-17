@@ -1,48 +1,83 @@
-- 🔥 Hi, I’m @NolanMM
-- 🔥 I’m interested in robotics, algorithm and aerospace
-- 🔥 I’m currently learning Bachelor of Computer Science (Honours)
+<!-- <h1 align="left">Minh (Nolan) Nguyen</h1> -->
 
-<br>
-<h2 align="center">🔥🔥🔥 GitHub Stats 🔥🔥🔥</h2>
-<br>
-<div align=center>
-  <a href="#" title="NolanM">
-    <img align="left" width="434" src="https://github-readme-stats.vercel.app/api?username=NolanMM&theme=aura_dark&hide_border=true" />
-  </a>
-  <a href="#" title="NolanM">
-    <img width="315" align="center" height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanMM&layout=compact&theme=aura_dark&hide_border=true" />
-  </a>
-</div>
-<br>
-<!--
-<br>
-<h2 align="center">🔥🛠 Some Repositories 🛠🔥</h2>
-<br>
-<div align=center>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=MySQL_Winform_Application_C_Sharp&theme=aura_dark)](https://github.com/NolanMM/MySQL_Winform_Application_C_Sharp)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=AES_Encryption_Hard_Code_Key&theme=gruvbox)](https://github.com/NolanMM/AES_Encryption_Hard_Code_Key)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=Multiple_Client_Server_Networking&theme=monokai)](https://github.com/NolanMM/Multiple_Client_Server_Networking)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=OTP_Code_SMTP_Server&theme=algolia)](https://github.com/NolanMM/OTP_Code_SMTP_Server)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=C-network-winform-simple&theme=prussian)](https://github.com/NolanMM/C-network-winform-simple)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NolanMM&repo=Multiple_Client_Server_Networking&theme=darcula)](https://github.com/NolanMM/Multiple_Client_Server_Networking)
-  -->
-<!--
-</div>
-<br>
-<br>
-<h2 align="center">🔥👽 Where to find me 👽🔥</h2>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/nolan2810" target="blank">
-    <img src="https://img.icons8.com/nolan/96/linkedin.png" />
-  </a>
-  -->
-  <!--
-    <a href="https://www.facebook.com/NolanMinh" target="blank">
-    <img src="https://img.icons8.com/neon/96/null/facebook.png" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC32mzHk7CDwrD2xMDmOeNtA" target="blank">
-    <img src="https://img.icons8.com/nolan/96/youtube-squared.png" />
-  </a>
-  <a href="https://www.instagram.com/n_olanm" target="blank">
-    <img src="https://img.icons8.com/nolan/96/instagram-new.png" />
-  </a>
-  -->
-</div>
+<p>
+  <strong>Software Engineer · Backend & Distributed Systems · UAV / Robotics · AI & Data</strong>
+</p>
+
+<p>
+I build systems that have to keep working beyond the demo, backend services,
+real-time communication, data infrastructure, and software that connects cloud systems
+with the physical world.
+</p>
+
+<p>
+  <!-- <a href="https://www.linkedin.com/in/nolan2810">LinkedIn</a>
+  &nbsp;·&nbsp; -->
+  <a href="https://www.rustechs.com/">Rustech</a>
+</p>
+
+---
+
+## About
+
+I am a Computer Science (Honours) graduate with a background spanning software engineering,
+distributed systems, data engineering, enterprise IT, machine learning, and autonomous systems.
+
+My current engineering work focuses on UAV and robotics infrastructure, particularly backend
+architecture, command and telemetry systems, real-time communication, cloud deployment,
+and fleet-scale operations.
+
+I care about software that is understandable, maintainable, and reliable under real operating
+conditions.
+
+- BCS (Honours), Computer Science - Conestoga College, 2025
+- Minor in Big Data & Deep Learning
+- Based between software, data and physical systems
+- Particularly interested in distributed systems, robotics, autonomous vehicles and aerospace
+
+---
+
+## Recognition
+
+**2026 - Runner-up, Kawai Startup Competition · RUSTACK**
+
+RUSTACK presented an integrated UAV technology ecosystem focused on secure,
+reliable communication and autonomous-system operations.
+
+**National 3rd Prize - Vietnam Student Startup Contest**
+
+Awarded through the national student startup competition organized by
+Vietnam's Ministry of Education and Training.
+
+---
+
+## TechStacks
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-111111?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-111111?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**Backend & Systems**  
+C# · .NET / ASP.NET Core · REST · Kafka · WebSockets · LiveKit · WebRTC · Entity Framework Core
+
+**Data & AI**  
+Python · PyTorch · TensorFlow · Spark · Databricks · Azure Data Factory · PostgreSQL · Cassandra · SQL Server
+
+**Cloud & Infrastructure**  
+Docker · Azure · AWS · Linux · Git · CI/CD
+
+**Mobile & Application Development**  
+Flutter · Dart · HTML/CSS/JavaScript
+
+---
